@@ -1,7 +1,5 @@
 package com.syaiful.school_management.student.usecase;
 
-import com.syaiful.school_management.paymenttype.adapter.repository.PaymentTypeRepository;
-import com.syaiful.school_management.paymenttype.entity.PaymentType;
 import com.syaiful.school_management.student.adapter.repository.StudentRepository;
 import com.syaiful.school_management.student.entity.Student;
 import lombok.RequiredArgsConstructor;
